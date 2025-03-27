@@ -13,5 +13,5 @@ Dashborad projesi <br>
 ![Şifre Değiştir](assets/git-image/4.PNG) <br>
 
 ### Yetkilendirme 
-Veritabanı üzerinden yetkilendirme işlemi gerçekleştirilmiş olup, yalnızca yetkili kişiler 'Admin Panel' sayfasını görüntüleyebilir.
+Veritabanı üzerinden yetkilendirme işlemi gerçekleştirilmiş olup, yalnızca yetkili kişiler 'Admin Panel' sayfasını görüntüleyebilir.<br><br>
 ![Yetkilendirme](assets/git-image/5.PNG) <br>
